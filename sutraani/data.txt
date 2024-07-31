@@ -1,5 +1,7 @@
 {
-    "name": "sutraani",
+    "name": "ब्रह्मसूत्राणि",
+    "description": "",
+    "index": "सूत्रावलि",
     "chapters": [
         {
           "n": "1",
