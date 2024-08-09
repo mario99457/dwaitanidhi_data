@@ -5169,17 +5169,19 @@
         "e": "",
         "pc": ""
     }
-],
-"commentaries": [
-    "1": {
-        "name": "",
-        "author": "",
-        "data": "bhashya.txt"
-    },
-   "2": {
-        "name": "",
-        "author": "",
-        "data": "sutradipika.txt"
-    }
-]
+    ],
+    "commentaries": [
+        {
+            "1": {
+                "name": "",
+                "author": "",
+                "data": "bhashya.txt"
+            },
+            "2": {
+                "name": "",
+                "author": "",
+                "data": "sutradipika.txt"
+            }
+        }
+    ]
 }
