@@ -1,5 +1,6 @@
 [
-  "sutraani": {
+  {
+    "name": "sutraani",
     "title": "ब्रह्मसूत्राणि",
     "description": "",
     "index": "सूत्रावलि",
@@ -90,19 +91,18 @@
         }],
     "commentaries": [
         {
-            "1": {
-                "name": "",
-                "author": "",
-                "data": "bhashya.txt"
-            },
-            "2": {
-                "name": "",
-                "author": "",
-                "data": "sutradipika.txt"
-            }
+            "name": "भाष्यम्",
+            "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
+            "data": "bhashya.txt"
+        },
+        {
+            "name": "सूत्रदीपिका",
+            "author": "श्रीजगन्नाथयति विरचिता",
+            "data": "sutradipika.txt"
         }]
   },
-  "gita": {
+  {
+    "name": "gita", 
     "title": "श्रीमद्भगवद्गीता",
     "description": "",
     "index": "श्लोकावलि",
@@ -178,6 +178,17 @@
         {
           "n": "18",
           "name": "मोक्षसन्न्यास योगः"
-        }]
+        }],
+    "commentaries":[
+    {
+       "name":"भाष्यम्",
+       "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
+       "data":"bhashya.txt"
+    },
+    {
+       "name":"सूत्रदीपिका",
+       "author":"श्रीजगन्नाथयति विरचिता",
+       "data":"sutradipika.txt"
+    }]
   }
 ]
