@@ -183,12 +183,12 @@
     {
        "name":"भाष्यम्",
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
-       "data":"bhashya.txt"
+       "data":"sutraani/bhashya.txt"
     },
     {
        "name":"सूत्रदीपिका",
        "author":"श्रीजगन्नाथयति विरचिता",
-       "data":"sutradipika.txt"
+       "data":"sutraani/sutradipika.txt"
     }]
   }
 ]
