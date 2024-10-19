@@ -94,13 +94,15 @@
             "name": "भाष्यम्",
             "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
             "data": "sutraani/bhashya.txt",
+            "ename": "bhashyam",
             "audio": true
         },
         {
             "name": "सूत्रदीपिका",
             "author": "श्रीजगन्नाथयति विरचिता",
             "data": "sutraani/sutradipika.txt",
-            "audio": true
+            "ename": "sutradipika",
+            "audio": false
         }]
   },
   {
