@@ -4,6 +4,7 @@
     "title": "ब्रह्मसूत्राणि",
     "description": "",
     "index": "सूत्रावलि",
+    "abbrev": "ब्र.सू.",
     "chapters": [
         {
           "n": "1",
@@ -110,6 +111,7 @@
     "title": "श्रीमद्भगवद्गीता",
     "description": "",
     "index": "श्लोकावलि",
+    "abbrev": "भ.गी.",
     "chapters": [
         {
           "n": "1",
