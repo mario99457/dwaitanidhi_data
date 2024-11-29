@@ -191,5 +191,194 @@
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
        "data":"gita/bhashya.txt"
     }]
-  }
+  },
+  {
+        "name": "isha",
+        "title": "ईशावास्योपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "ईश.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "kata",
+        "title": "कठोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "कठ.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "mund",
+        "title": "मुण्डकोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "मु.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "shat",
+        "title": "षट्प्रश्नोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "षट.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "mandu",
+        "title": "माण्डूक्योपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "मा.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "itareya",
+        "title": "ऐतरेयोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "ऐत.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "taittiriya",
+        "title": "तैत्तिरीयोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "तै.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "bruhad",
+        "title": "बृहदारण्यकोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "बृ.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "chanda",
+        "title": "छान्दोग्योपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "छा.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "talava",
+        "title": "तलवकारोपनिषत्",
+        "description": "",
+        "index": "मन्त्रावलि",
+        "abbrev": "तल.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "pramana",
+        "title": "प्रमाणलक्षणम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "प्र.ल.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "katha",
+        "title": "कथालक्षणम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "कथा.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "tsankya",
+        "title": "तत्त्वसङ्ख्यानम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "तत्त्व.स",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "tviveka",
+        "title": "तत्त्वविवेकः",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "तत्त्व.वि.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "tdyota",
+        "title": "तत्त्वोद्योतः",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "तत्त्वोद्योतः",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "upadhi",
+        "title": "उपाधिखण्डनम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "उ.ख.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "mvkhandana",
+        "title": "मायावादखण्डनम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "मा.ख.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "mitvkhandana",
+        "title": "मिथ्यात्वानुमानखण्डनम्",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "मि.ख.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "vishnutnirnaya",
+        "title": "विष्णुतत्त्वविनिर्णयः",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "वि.त.नि.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "karmanirnaya",
+        "title": "कर्मनिर्णयः",
+        "description": "",
+        "index": "वाक्यावलि",
+        "abbrev": "कर्म.नि.",
+        "chapters": "",
+        "commentaries": ""
+    },
+    {
+        "name": "bhagavata",
+        "title": "भागवततात्पर्यनिर्णयः",
+        "description": "",
+        "index": "श्लोकावलि",
+        "abbrev": "भा.ता.नि.",
+        "chapters": "",
+        "commentaries": ""
+    }
 ]
