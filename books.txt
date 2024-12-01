@@ -198,8 +198,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "ईश.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "kata",
@@ -207,8 +207,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "कठ.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "mund",
@@ -216,8 +216,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "मु.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "shat",
@@ -225,8 +225,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "षट.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "mandu",
@@ -234,8 +234,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "मा.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "itareya",
@@ -243,8 +243,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "ऐत.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "taittiriya",
@@ -252,8 +252,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "तै.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "bruhad",
@@ -261,8 +261,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "बृ.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "chanda",
@@ -270,8 +270,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "छा.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "talava",
@@ -279,8 +279,8 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "तल.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "pramana",
@@ -288,8 +288,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "प्र.ल.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "katha",
@@ -297,8 +297,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "कथा.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "tsankya",
@@ -306,8 +306,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "तत्त्व.स",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "tviveka",
@@ -315,8 +315,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "तत्त्व.वि.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "tdyota",
@@ -324,8 +324,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "तत्त्वोद्योतः",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "upadhi",
@@ -333,8 +333,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "उ.ख.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "mvkhandana",
@@ -342,8 +342,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "मा.ख.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "mitvkhandana",
@@ -351,8 +351,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "मि.ख.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "vishnutnirnaya",
@@ -360,8 +360,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "वि.त.नि.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "karmanirnaya",
@@ -369,8 +369,8 @@
         "description": "",
         "index": "वाक्यावलि",
         "abbrev": "कर्म.नि.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     },
     {
         "name": "bhagavata",
@@ -378,7 +378,7 @@
         "description": "",
         "index": "श्लोकावलि",
         "abbrev": "भा.ता.नि.",
-        "chapters": "",
-        "commentaries": ""
+        "chapters": [],
+        "commentaries": []
     }
 ]
