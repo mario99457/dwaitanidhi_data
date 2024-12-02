@@ -188,16 +188,16 @@
     "commentaries":[
     {
        "name":"भाष्यम्",
-       "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
-       "data":"gita/prameyadipika.txt",
-       "ename": "prameyadipika",
+       "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
+       "data":"gita/bhashyam.txt",
+       "ename": "gitabhashyam",
        "audio": false
     },
     {
        "name":"प्रमेयदीपिका",
        "author":"श्रीमज्जयतीर्थविरचिता",
-       "data":"gita/bhashya.txt",
-       "ename": "gitabhashyam",
+       "data":"gita/prameyadipika.txt",
+       "ename": "prameyadipika",
        "audio": false
     }]
   },
