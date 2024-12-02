@@ -93,14 +93,14 @@
     "commentaries": [
         {
             "name": "भाष्यम्",
-            "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
+            "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
             "data": "sutraani/bhashya.txt",
             "ename": "bhashyam",
-            "audio": true
+            "audio": false
         },
         {
             "name": "सूत्रदीपिका",
-            "author": "श्रीजगन्नाथयति विरचिता",
+            "author": "श्रीजगन्नाथयतिविरचिता",
             "data": "sutraani/sutradipika.txt",
             "ename": "sutradipika",
             "audio": false
@@ -189,7 +189,16 @@
     {
        "name":"भाष्यम्",
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्य विरचितं",
-       "data":"gita/bhashya.txt"
+       "data":"gita/prameyadipika.txt",
+       "ename": "prameyadipika",
+       "audio": false
+    },
+    {
+       "name":"प्रमेयदीपिका",
+       "author":"श्रीमज्जयतीर्थविरचिता",
+       "data":"gita/bhashya.txt",
+       "ename": "bhashyam",
+       "audio": false
     }]
   },
   {
