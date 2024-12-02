@@ -203,7 +203,7 @@
     }]
   },
   {
-        "name": "isha",
+        "name": "ishavasya",
         "title": "ईशावास्योपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -212,7 +212,7 @@
         "commentaries": []
     },
     {
-        "name": "kata",
+        "name": "kataka",
         "title": "कठोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -221,7 +221,7 @@
         "commentaries": []
     },
     {
-        "name": "mund",
+        "name": "mundaka",
         "title": "मुण्डकोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -230,7 +230,7 @@
         "commentaries": []
     },
     {
-        "name": "shat",
+        "name": "shatprashna",
         "title": "षट्प्रश्नोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -239,7 +239,7 @@
         "commentaries": []
     },
     {
-        "name": "mandu",
+        "name": "manduka",
         "title": "माण्डूक्योपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -248,7 +248,7 @@
         "commentaries": []
     },
     {
-        "name": "itareya",
+        "name": "aitareya",
         "title": "ऐतरेयोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -266,7 +266,7 @@
         "commentaries": []
     },
     {
-        "name": "bruhad",
+        "name": "bruhadaranyaka",
         "title": "बृहदारण्यकोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -275,7 +275,7 @@
         "commentaries": []
     },
     {
-        "name": "chanda",
+        "name": "chandogya",
         "title": "छान्दोग्योपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -284,7 +284,7 @@
         "commentaries": []
     },
     {
-        "name": "talava",
+        "name": "talavakara",
         "title": "तलवकारोपनिषत्",
         "description": "",
         "index": "मन्त्रावलि",
@@ -311,7 +311,7 @@
         "commentaries": []
     },
     {
-        "name": "tsankya",
+        "name": "tsankyana",
         "title": "तत्त्वसङ्ख्यानम्",
         "description": "",
         "index": "वाक्यावलि",
@@ -356,7 +356,7 @@
         "commentaries": []
     },
     {
-        "name": "mitvkhandana",
+        "name": "mityatvakhandana",
         "title": "मिथ्यात्वानुमानखण्डनम्",
         "description": "",
         "index": "वाक्यावलि",
