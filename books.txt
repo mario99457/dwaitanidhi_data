@@ -190,7 +190,7 @@
     {
        "name":"भाष्यम्",
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
-       "data":"gita/bhashyam.txt",
+       "data":"gita/bhashya.txt",
        "ename": "gitabhashyam",
        "audio": false
     },
