@@ -5,6 +5,7 @@
     "description": "",
     "index": "सूत्रावलि",
     "abbrev": "ब्र.सू.",
+    "audio": true,
     "chapters": [
         {
           "n": "1",
