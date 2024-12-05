@@ -96,14 +96,14 @@
             "name": "भाष्यम्",
             "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
             "data": "sutraani/bhashya.txt",
-            "ename": "bhashyam",
+            "key": "bhashyam",
             "audio": false
         },
         {
             "name": "सूत्रदीपिका",
             "author": "श्रीजगन्नाथयतिविरचिता",
             "data": "sutraani/sutradipika.txt",
-            "ename": "sutradipika",
+            "key": "sutradipika",
             "audio": false
         }]
   },
@@ -191,14 +191,14 @@
        "name":"भाष्यम्",
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
        "data":"gita/bhashya.txt",
-       "ename": "gitabhashyam",
+       "key": "gitabhashyam",
        "audio": false
     },
     {
        "name":"प्रमेयदीपिका",
        "author":"श्रीमज्जयतीर्थविरचिता",
        "data":"gita/prameyadipika.txt",
-       "ename": "prameyadipika",
+       "key": "prameyadipika",
        "audio": false
     }]
   },
