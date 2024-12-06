@@ -113,7 +113,7 @@
     "title": "श्रीमद्भगवद्गीता",
     "description": "",
     "index": "श्लोकावलि",
-    "abbrev": "भ.गी.",    
+    "abbrev": "भ.गी.",
     "audio": false,
     "searchable": true,
     "chapters": [
@@ -196,7 +196,7 @@
        "data":"gita/bhashya.txt",
        "key": "gitabhashyam",    
        "audio": false,
-       "searchable": true,      
+       "searchable": true      
     },
     {
        "name":"प्रमेयदीपिका",
