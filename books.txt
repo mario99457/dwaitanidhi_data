@@ -6,6 +6,7 @@
     "index": "सूत्रावलि",
     "abbrev": "ब्र.सू.",
     "audio": true,
+    "searchable": true,
     "chapters": [
         {
           "n": "1",
@@ -112,7 +113,9 @@
     "title": "श्रीमद्भगवद्गीता",
     "description": "",
     "index": "श्लोकावलि",
-    "abbrev": "भ.गी.",
+    "abbrev": "भ.गी.",    
+    "audio": false,
+    "searchable": true,
     "chapters": [
         {
           "n": "1",
@@ -191,8 +194,9 @@
        "name":"भाष्यम्",
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
        "data":"gita/bhashya.txt",
-       "key": "gitabhashyam",
-       "audio": false
+       "key": "gitabhashyam",    
+       "audio": false,
+       "searchable": true,      
     },
     {
        "name":"प्रमेयदीपिका",
