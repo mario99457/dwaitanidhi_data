@@ -195,8 +195,7 @@
        "author":"श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
        "data":"gita/bhashya.txt",
        "key": "gitabhashyam",    
-       "audio": false,
-       "searchable": true      
+       "audio": false  
     },
     {
        "name":"प्रमेयदीपिका",
@@ -213,7 +212,9 @@
         "index": "मन्त्रावलि",
         "abbrev": "ईश.",
         "chapters": [],
-        "commentaries": []
+        "commentaries": [],  
+        "audio": false,       
+        "searchable": true   
     },
     {
         "name": "kataka",
