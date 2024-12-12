@@ -198,7 +198,7 @@
        "audio": false  
     },
     {
-       "name":"तात्पर्यनिर्णयम्",
+       "name":"तात्पर्यनिर्णयः",
        "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
        "data":"gita/tatparyanirnaya.txt",
        "key": "gitatatparya",    
