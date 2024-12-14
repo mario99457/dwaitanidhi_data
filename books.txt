@@ -218,11 +218,7 @@
         "description": "",
         "index": "मन्त्रावलि",
         "abbrev": "ईश.",
-        "chapters": [
-        {
-          "n": "1",
-          "name": "उपनिषत्"
-        }],
+        "chapters": [],
         "commentaries": [],  
         "audio": false,       
         "searchable": true   
