@@ -219,7 +219,14 @@
         "index": "मन्त्रावलि",
         "abbrev": "ईश.",
         "chapters": [],
-        "commentaries": [],  
+        "commentaries": [
+         {
+           "name":"भाष्यम्",
+           "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
+           "data":"ishavasya/bhashya.txt",
+           "key": "ishabhashyam",    
+           "audio": false  
+        }],  
         "audio": false,       
         "searchable": true   
     },
