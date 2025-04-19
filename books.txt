@@ -95,7 +95,7 @@
     "commentaries": [
         {
             "name": "भाष्यम्",
-            "author": "श्रीमदानन्दतीर्थ भगवद्पादाचार्यविरचितं",
+            "author": "श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
             "data": "sutraani/bhashya.txt",
             "key": "bhashyam",
             "audio": false
@@ -237,11 +237,54 @@
         "index": "मन्त्रावलि",
         "abbrev": "कठ.",
         "chapters": [
-        {
-          "n": "1",
-          "name": "उपनिषत्"
-        }],
-        "commentaries": []
+			{
+			  "n": "1",
+			  "name": "प्रथमोध्यायः",
+			  "sub": [
+				  {
+					"n": "1",
+					"name": "प्रथमावल्ली"
+				  },
+				  {
+					"n": "2",
+					"name": "द्वितीयावल्ली"
+				  },
+				  {
+					"n": "3",
+					"name": "तृतीयावल्ली"
+				  },
+				]
+			},
+			{
+			  "n": "2",
+			  "name": "द्वितीयाध्यायः",
+			    "sub": [
+				  {
+					"n": "1",
+					"name": "प्रथमावल्ली"
+				  },
+				  {
+					"n": "2",
+					"name": "द्वितीयावल्ली"
+				  },
+				  {
+					"n": "3",
+					"name": "तृतीयावल्ली"
+				  },
+				]
+			},			
+		],
+        "commentaries": [
+         {
+           "name":"भाष्यम्",
+           "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
+           "data":"kataka/bhashya.txt",
+           "key": "katakabhashyam",    
+           "audio": false  
+        }],  
+        "audio": false,       
+        "searchable": true   
+
     },
     {
         "name": "mundaka",
