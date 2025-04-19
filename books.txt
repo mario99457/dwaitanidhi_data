@@ -295,9 +295,36 @@
         "chapters": [
         {
           "n": "1",
-          "name": "उपनिषत्"
+          "name": "प्रथमः खण्डः"
+		},
+        {
+          "n": "2",
+          "name": "द्वितीयः खण्डः"
+        },
+        {
+          "n": "3",
+          "name": "तृतीयः खण्डः"
+        },
+        {
+          "n": "4",
+          "name": "चतुर्थः खण्डः"
+        },
+        {
+          "n": "5",
+          "name": "पञ्चमः खण्डः"
+        },
+        {
+          "n": "6",
+          "name": "षष्ठः खण्डः"
         }],
-        "commentaries": []
+        "commentaries": [
+		{
+           "name":"भाष्यम्",
+           "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
+           "data":"mundaka/bhashya.txt",
+           "key": "mundakabhashyam",    
+           "audio": false  
+        }]
     },
     {
         "name": "shatprashna",
