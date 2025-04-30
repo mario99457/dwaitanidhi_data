@@ -394,8 +394,8 @@
         {
           "name":"भाष्यम्",
           "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
-          "data":"shatprashna/bhashya.txt",
-          "key": "shatprashnabhashyam",    
+          "data":"manduka/bhashya.txt",
+          "key": "mandukabhashyam",    
           "audio": false  
       }],  
       "audio": false,       
