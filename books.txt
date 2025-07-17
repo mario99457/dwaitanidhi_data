@@ -1,11 +1,11 @@
 [
   {
-    "name": "sutraani",
-    "title": "ब्रह्मसूत्राणि",
+    "name": "sumadhvavijaya",
+    "title": "सुमध्वविजयः",
     "description": "",
     "index": "सूत्रावलि",
-    "abbrev": "ब्र.सू.",
-    "audio": true,
+    "abbrev": "सु.वि.",
+    "audio": false,
     "searchable": true,
     "chapters": [
         {
