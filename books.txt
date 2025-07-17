@@ -76,21 +76,21 @@
     {
        "name":"भावप्रकाशिका",
        "author":"श्रीनारायणपण्डिताचार्यविरचिता",
-       "data":"svijaya/bhavaprakashika.txt",
+       "data":"sumadhvavijaya/bhavaprakashika.txt",
        "key": "bhavaprakashika",    
        "audio": false  
     },
     {
        "name":"पदार्थदीपिकोद्बोधिका",
        "author":"श्रीविश्वपतितीथंविरचिता",
-       "data":"svijaya/padartha.txt",
+       "data":"sumadhvavijaya/padartha.txt",
        "key": "padartha",    
        "audio": false  
     },
     {
        "name":"मन्दोपाकारिणी",
        "author":"श्रीछलारिशेषाचार्यविरचिता",
-       "data":"svijaya/mandopakarini.txt",
+       "data":"sumadhvavijaya/mandopakarini.txt",
        "key": "mandopakarini",
        "audio": false
     }]
