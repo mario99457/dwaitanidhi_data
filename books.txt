@@ -74,24 +74,24 @@
         }],
     "commentaries":[
     {
-       "name":"भाष्यम्",
-       "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
-       "data":"gita/bhashya.txt",
-       "key": "gitabhashyam",    
+       "name":"भावप्रकाशिका",
+       "author":"श्रीनारायणपण्डिताचार्यविरचिता",
+       "data":"svijaya/bhavaprakashika.txt",
+       "key": "bhavaprakashika",    
        "audio": false  
     },
     {
-       "name":"तात्पर्यनिर्णयः",
-       "author":"श्रीमदानन्दतीर्थभगवद्पादाचार्यविरचितं",
-       "data":"gita/tatparyanirnaya.txt",
-       "key": "gitatatparya",    
+       "name":"पदार्थदीपिकोद्बोधिका",
+       "author":"श्रीविश्वपतितीथंविरचिता",
+       "data":"svijaya/padartha.txt",
+       "key": "padartha",    
        "audio": false  
     },
     {
-       "name":"प्रमेयदीपिका",
-       "author":"श्रीमज्जयतीर्थविरचिता",
-       "data":"gita/prameyadipika.txt",
-       "key": "prameyadipika",
+       "name":"मन्दोपाकारिणी",
+       "author":"श्रीछलारिशेषाचार्यविरचिता",
+       "data":"svijaya/mandopakarini.txt",
+       "key": "mandopakarini",
        "audio": false
     }]
   }
