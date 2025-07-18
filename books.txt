@@ -86,6 +86,13 @@
        "data":"svijaya/padartha.txt",
        "key": "padartha",    
        "audio": false  
+    },
+    {
+       "name":"मन्दोपाकारिणी",
+       "author":"श्रीछलारिशेषाचार्यविरचिता",
+       "data":"svijaya/mandopakarini.txt",
+       "key": "mandopakarini",
+       "audio": false
     }]
   }
  ]
