@@ -1,0 +1,15 @@
+import json
+
+# Load the original file
+with open('karmanirnaya/index.txt', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+# Update the 'i' field for each entry
+for idx, entry in enumerate(data['data'], start=101):
+    entry['i'] = str(idx)
+
+# Save to a new file
+with open('karmanirnaya/index_sequential.txt', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
+
+print("Updated index_sequential.txt with sequential 'i' values.")
