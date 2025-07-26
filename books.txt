@@ -887,12 +887,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "प्र.ल.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -902,12 +896,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "कथा.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -916,13 +904,7 @@
     "title": "तत्त्वसङ्ख्यानम्",
     "description": "",
     "index": "वाक्यावलि",
-    "abbrev": "तत्त्व.स",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
+    "abbrev": "तत्त्व.स",    
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -932,12 +914,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "तत्त्व.वि.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -947,12 +923,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "तत्त्वोद्योतः",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -962,12 +932,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "उ.ख.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -977,12 +941,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "मा.ख.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -992,12 +950,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "मि.ख.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -1007,12 +959,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "वि.त.नि.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -1022,12 +968,6 @@
     "description": "",
     "index": "वाक्यावलि",
     "abbrev": "कर्म.नि.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [],
     "type": "sarvamoola"
   },
@@ -1037,12 +977,6 @@
     "description": "",
     "index": "श्लोकावलि",
     "abbrev": "भा.ता.नि.",
-    "chapters": [
-      {
-        "n": "1",
-        "name": "उपनिषत्"
-      }
-    ],
     "commentaries": [
       {
         "name": "तात्पर्यनिर्णयः",
