@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import os
 
-def update_sutraani_index_from_excel(excel_file_path, index_file_path="sutraani/index_updated.txt"):
+def update_sutraani_index_from_excel(excel_file_path, index_file_path="sutraani/index.txt"):
     """
     Read Excel file with startTime, endTime, i, duration columns and update sutraani index
     """
